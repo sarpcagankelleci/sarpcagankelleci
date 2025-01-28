@@ -27,8 +27,6 @@ Welcome to my GitHub profile! I am an **Industrial Engineer & Computer Engineer*
 ---
 
 ## 🛠️ Languages and Tools  
-
-## 🛠️ Languages and Tools  
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="40"/> 
@@ -63,10 +61,6 @@ Welcome to my GitHub profile! I am an **Industrial Engineer & Computer Engineer*
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="40"/> 
   </a>  
-  <a href="https://www.gurobi.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gurobi_Optimization_logo.svg/2560px-Gurobi_Optimization_logo.svg.png" alt="Gurobi" width="80" height="40"/> 
-  </a>  
-</p>
 
   
 </p>
