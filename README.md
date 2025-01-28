@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am an **Industrial Engineer & Computer Engineer*
 ---
 
 ### 🌟 Highlights  
-- **Passionate about:** Data Analytics, Marketing, and Technology Innovations  
+- **Passionate about:** Data Analytics, Marketing, Machine Learning and Technology Innovations  
 - **Experienced in:** SQL, Python, Java, Excel Dashboards, and Advanced Visualization  
 - **Current Focus:** Exploring **Amazon Advertising Insights** and **building streamlined reporting systems**  
 
