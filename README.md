@@ -1,17 +1,15 @@
-Here's a tailored version of your GitHub README, inspired by the structure and focus of your projects and repositories:
 
----
 
 # Hi, I'm Sarp Çağan Kelleci! 👋  
 
 ### 👨‍💻 About Me  
-Welcome to my GitHub profile! I am an **industrial engineering enthusiast** with a keen interest in **data-driven solutions, digital marketing strategies, and innovative technologies**. My goal is to bridge the gap between technology and business impact by combining my skills in **analytics, automation, and project management**.  
+Welcome to my GitHub profile! I am an **Industrial Engineer & Computer Engineer** with a keen interest in **data-driven solutions, and innovative technologies**. My goal is to bridge the gap between technology and business impact by combining my skills in **analytics, automation, and project management**.  
 
 ---
 
 ### 🌟 Highlights  
 - **Passionate about:** Data Analytics, Marketing, and Technology Innovations  
-- **Experienced in:** SQL, Python, Excel Dashboards, and Advanced Visualization  
+- **Experienced in:** SQL, Python, Java, Excel Dashboards, and Advanced Visualization  
 - **Current Focus:** Exploring **Amazon Advertising Insights** and **building streamlined reporting systems**  
 
 ---
@@ -35,19 +33,8 @@ Welcome to my GitHub profile! I am an **industrial engineering enthusiast** with
 
 ---
 
-### 📚 Featured Repositories  
-Here are some of my key projects and repositories:  
-
-- **[Core 4 Dashboard](https://github.com/sarpcagankelleci/Core4-Dashboard)**: A streamlined performance analysis tool that tracks account health and provides actionable insights for Amazon Advertising teams.  
-- **[Library Management System](https://github.com/sarpcagankelleci/Library-Management-System)**: A SQL-based system to manage library operations with an intuitive web interface.  
-- **[Brand Week Roadmap](https://github.com/sarpcagankelleci/Brand-Week-Roadmap)**: A comprehensive annual calendar tool that tracks brand participation in key marketing events.  
-- **[Internsy Platform](https://github.com/sarpcagankelleci/Internsy-Platform)**: A platform that helps interns connect, share experiences, and grow their careers.  
-
----
 
 ### 🚀 Let's Collaborate!  
 I'm always open to new opportunities and collaborations, whether it's building efficient tools, solving complex problems, or exploring innovative ideas. Feel free to reach out!  
 
 ---
-
-Does this align with how you want to present yourself? Let me know if you’d like any tweaks or additional sections! 😊
